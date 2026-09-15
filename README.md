@@ -12,7 +12,8 @@ build step, no dependencies. The repo links a few of my favorites.
 **[content-loop](https://github.com/graceyan212/content-loop)** — An autonomous
 pipeline for social content. It generates and schedules posts, then scores how they
 performed and adjusts its own parameters from the results. Compliance checks are
-deterministic and unit-tested rather than handled by a model.
+deterministic and unit-tested rather than handled by a model. It drove 138K+
+organic views across 3 brands in 2 weeks.
 
 **[toki](https://github.com/graceyan212/toki)** — Mechanical keyboard sound for
 macOS. A menu-bar app in Swift — 7 switch voices, randomized pitch per keystroke,
