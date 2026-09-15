@@ -10,11 +10,10 @@ venues, medical practices. 17 are deployed. Static HTML and CSS — no framework
 build step, no dependencies. The repo links a few of my favorites.
 
 **[content-loop](https://github.com/graceyan212/content-loop)** — An autonomous
-social-content pipeline: it writes posts, gates them, renders them, schedules them,
-reads how they performed, and proposes changes to its own defaults. ~22,000 lines
-of Python. The compliance gate is deterministic and the A/B rollup math is pure, so
-both are unit-tested rather than left to a model. Built at Alpha AI Engineering,
-where it drove 138K+ organic views across 3 brands in 2 weeks.
+pipeline for social content. It generates and schedules posts, then scores how they
+performed and adjusts its own parameters from the results. Compliance checks are
+deterministic and unit-tested rather than handled by a model. It drove 138K+
+organic views across 3 brands in 2 weeks.
 
 **[toki](https://github.com/graceyan212/toki)** — Mechanical keyboard sound for
 macOS. A menu-bar app in Swift — 7 switch voices, randomized pitch per keystroke,
