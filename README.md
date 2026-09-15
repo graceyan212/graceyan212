@@ -12,8 +12,7 @@ build step, no dependencies. The repo links a few of my favorites.
 **[content-loop](https://github.com/graceyan212/content-loop)** — An autonomous
 pipeline for social content. It generates and schedules posts, then scores how they
 performed and adjusts its own parameters from the results. Compliance checks are
-deterministic and unit-tested rather than handled by a model. It drove 138K+
-organic views across 3 brands in 2 weeks.
+deterministic and unit-tested rather than handled by a model.
 
 **[toki](https://github.com/graceyan212/toki)** — Mechanical keyboard sound for
 macOS. A menu-bar app in Swift — 7 switch voices, randomized pitch per keystroke,
@@ -40,12 +39,6 @@ to the International Symposium on Visualization in Transportation. I wrote it
 before any of the current AI tooling existed — no Copilot, no Claude, no
 Stack-Overflow-by-chatbot — so I was learning Python and the Maps API as I went.
 The code shows it. I'm keeping it up anyway.
-
-### Elsewhere
-
-Previously ML/DevOps at Buzz Solutions, data analysis at Simplify (YC W21), and
-research at the Visual Attention Lab at Harvard Medical School — second author on
-a paper in *Vision Research*. 2nd place, OpenAI track, TreeHacks 2026.
 
 Python · C++ · JavaScript · Swift · Rust · PyTorch · Docker · Kubernetes · GCP · AWS
 
